@@ -1,0 +1,210 @@
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\QLVT.exe.config
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\QLVT.exe
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\QLVT.pdb
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.csproj.AssemblyReference.cache
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.csproj.SuggestedBindingRedirects.cache
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.frmMain.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.Properties.Resources.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.csproj.GenerateResource.cache
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.exe.licenses
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.csproj.CoreCompileInputs.cache
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.csproj.CopyComplete
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.exe
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.pdb
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.frmDangNhap.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.frmNhanVien.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.frmKho.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.frmVatTu.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.frmChuyenChiNhanh.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.frmTaoTaiKhoan.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.frmDatHang.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.frmPhieuNhap.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.frmNhapXuatVatTu.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.frmPhieuXuat.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.frmXoaTaiKhoan.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.Xrpt_DanhSachVatTu.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.Xrpt_DanhSachNhanVien.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.Frpt_BangKeChiTietVatTu.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.Xrpt_BangKeChiTietVatTu.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.Xrpt_HoatDongNhanVien.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.Frpt_HoatDongNhanVien.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.Frpt_TongHopNhapXuat.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.Xrpt_TongHopNhapXuat.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.Xrpt_DanhSachDatHangChuaNhap.resources
+C:\Users\BIN BIN\Desktop\QLVT\QLVT\obj\Debug\QLVT.frmHieuChinhVatTu.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\QLVT.exe.config
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\QLVT.exe
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\QLVT.pdb
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Data.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Drawing.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Utils.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraBars.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Images.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Data.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.DataAccess.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Office.v22.2.Core.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Utils.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Xpo.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraBars.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraReports.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.csproj.AssemblyReference.cache
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.csproj.SuggestedBindingRedirects.cache
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.frmChuyenChiNhanh.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.frmDangNhap.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.frmDatHang.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.frmHieuChinhVatTu.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.frmKho.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.frmMain.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.frmNhanVien.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.frmNhapXuatVatTu.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.frmPhieuNhap.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.frmPhieuXuat.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.frmTaoTaiKhoan.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.frmVatTu.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.frmXoaTaiKhoan.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.Frpt_BangKeChiTietVatTu.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.Frpt_HoatDongNhanVien.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.Frpt_TongHopNhapXuat.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.Properties.Resources.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.Xrpt_BangKeChiTietVatTu.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.Xrpt_DanhSachDatHangChuaNhap.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.Xrpt_DanhSachNhanVien.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.Xrpt_DanhSachVatTu.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.Xrpt_HoatDongNhanVien.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.Xrpt_TongHopNhapXuat.resources
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.csproj.GenerateResource.cache
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.exe.licenses
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.csproj.CoreCompileInputs.cache
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.csproj.CopyComplete
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.exe
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\obj\Debug\QLVT.pdb
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.CodeParser.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.DataAccess.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Office.v22.2.Core.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.Xpo.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraReports.v22.2.dll
+F:\OneDrive - IT Software\Documents\QuanLyVatTu\QLVT\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
